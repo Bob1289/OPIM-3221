@@ -1,0 +1,24 @@
+Throughout the world, vacation cruises on increasingly larger ships have been steadily growing in popularity. People like the all-inclusive price for food, room, and entertainment, the variety of shipboard activities, and the ability to unpack just once and still visit several places on their vacation.
+
+Happy Cruise Lines has several ships and operates (begins its cruises) from a number of ports. It has a variety of vacation cruise itineraries, each involving several ports-of-call. The company wants to keep track of both its past and future cruises and the past passengers who sailed on past cruises and are booked on future cruises.
+
+Actually you can think of a cruise line as simply a somewhat specialized case of any passenger transportation company, including airlines, trains, and buses. Beyond that, a cruise line is, after all, a business, and like any other business of any kind it must be concerned about finances, employees, equipment, and so forth
+
+______________________________________________________________________________
+
+Using the introductory description of (and hints about) Happy Cruise Lines in Minicase #1 spend 5 minutes making a bulleted list of the things in Happy Cruise Lines' business environment about which you think the company would want to maintain data. 
+
+Once you have the list created underline the pieces of data you believe  that qualify as corporate resources? Remember a piece of data is a corporate resource if it can create a competitive advantage. 
+
+We've just begun to talk about data, but even at this early state develop some ideas of how the data you underlined in Part b can be used by Happy Cruise Lines to gain a competitive advantage over other cruise lines. Choose one and write a few sentences explaining why.
+
+-	Cruise ship ID
+-	Cruise ship itinerary
+-	Passenger ID
+-	Log of cruise attendance
+-	Passenger reviews
+-	Cost of cruise
+-	Cost of maintenance and day to day expenses
+-	Passenger demographics
+
+An important piece of data that can be used to gain a competitive advantage over other cruise lines would be the passengers ID. This can be helpful as it would help us infer many other pieces of data from if they attended a cruise and track what types of cruises they would like. Happy Cruise Lines can then group up these people to curate a more enticing cruise for them and in turn profit more. 
